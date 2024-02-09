@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.redirect span:hover {
+  text-decoration: underline green;
+  text-underline-offset: 4px;
+  cursor: pointer;
+}
